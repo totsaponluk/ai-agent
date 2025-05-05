@@ -1,0 +1,10 @@
+langchain
+openai
+faiss-cpu
+unstructured
+pytesseract
+pdf2image
+streamlit
+python-dotenv
+pandas
+docx2txt
